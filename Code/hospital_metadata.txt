@@ -1,0 +1,15 @@
+Metadata for 773 hospitals
+
+Counts of Ruca Codes
+1: 735
+2: 4
+4: 32
+5: 1
+7: 1
+
+HospitalType
+OTH             631
+AMC              90
+NCCN             30
+NCI not NCCN     22
+Name: count, dtype: int64
